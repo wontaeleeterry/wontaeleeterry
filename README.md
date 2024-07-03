@@ -5,15 +5,15 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I'm currently working as NVH engineer for a multinational company.
-- 🌱 My current interests are Signal processing, Machine learning, Python and Databases. 
+- 🌱 My current interests are Signal processing, Machine learning, Python and Database. 
 - 👯 I’m looking to collaborate with Data Scientists, Machine Learning Engineers and Developers.
 - 📫 How to reach me: WonTae.Lee@gmail.com
   
 ## Tech Stack
 
 <div>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=blue">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=green">
 </br></div>
 
 ## Cowork tools
