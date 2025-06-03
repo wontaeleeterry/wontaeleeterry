@@ -1,4 +1,4 @@
-## Hello, I'm Terry! 👋
+## Hello, I'm Terry! 👋 Enjoy every moment of your life!
 
 <!--
 **wontaeleeterry/wontaeleeterry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
