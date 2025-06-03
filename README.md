@@ -4,7 +4,7 @@
 **wontaeleeterry/wontaeleeterry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-- 🔭 I'm currently working as NVH engineer for a multinational company.
+- 🔭 I'm currently working as NVH engineer for a automotive company.
 - 🌱 My current interests are Signal processing, Machine learning, Python, Database and LLM & RAG. 
 - 👯 I’m looking to collaborate with Data Scientists, Machine Learning Engineers and Developers.
 - 📫 How to reach me: WonTae.Lee@gmail.com
