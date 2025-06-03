@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I'm currently working as NVH engineer for a multinational company.
-- 🌱 My current interests are Signal processing, Machine learning, Python and Database. 
+- 🌱 My current interests are Signal processing, Machine learning, Python, Database and LLM & RAG. 
 - 👯 I’m looking to collaborate with Data Scientists, Machine Learning Engineers and Developers.
 - 📫 How to reach me: WonTae.Lee@gmail.com
   
